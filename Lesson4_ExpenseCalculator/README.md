@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 10, 2017
 
 ### Student Name:  
-(First and Last Name)
+Justin Morris
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I learned how to implement basic javascript to get the expense calculator to work.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jm13ab.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Using proper tags to get applications to work
+2. GetelementbyID functions on the first time it sees an id.
+3. using fieldset tags to create different elements of the page.
